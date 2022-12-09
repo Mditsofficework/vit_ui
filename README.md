@@ -1,4 +1,4 @@
-<h1>welcome to vsit global consultancy services </h1>
+<h1>welcome to vsit global consultancy service </h1>
 <h2> for bright feature </h2>
 
 
